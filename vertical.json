@@ -1,0 +1,11 @@
+{
+  "product_id": "plumber",
+  "display_name": "PlumberTasksAI",
+  "tool_prefix": "plumbertasksai",
+  "api_base_url": "https://api.lawtasksai.com",
+  "website_url": "https://plumbertasksai.com",
+  "billing_url": "https://plumbertasksai.com/buy-credits.html",
+  "support_email": "support@plumbertasksai.com",
+  "privacy_summary": "PlumberTasksAI servers handle authentication, credits, catalog/search metadata, and licensed skill delivery. PlumberTasksAI does not process the user's task content. The user's chosen AI assistant or LLM performs the task work according to that provider's privacy terms.",
+  "first_prompt": "Check my PlumberTasksAI credit balance."
+}
